@@ -1,6 +1,7 @@
 # ACETON 
 
-This project contains a tool designed to automatically construct an energy test oracle for Android.
+This project contains an encoder-decoder model trained to automatically 
+construct an energy test oracle for Android.
 
 ACETON components:
 
